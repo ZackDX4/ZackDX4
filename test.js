@@ -17,7 +17,7 @@ var jwDefaults = {
   "displaydescription": false,
   "displaytitle": false,
   "height": 260,
-  "key": "W7zSm81+mmIsg7F+fyHRKhF3ggLkTqtGMhvI92kbqf/ysE99",
+  "key": "/71CmwnuCf0woGnzMjRcKPEc1gi7gPWpgJcvD0g9d7IQserGtK+oCmTtilM=",
   "logo": {
     "file": "#",
     "hide": false,
